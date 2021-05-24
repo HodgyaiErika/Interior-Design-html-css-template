@@ -1,0 +1,177 @@
+.body-style{
+	line-height:1.5;
+	font-family:Poppins,sans-serif;
+	font-size:16px;
+}
+.side-bar{
+	background-color:#f44336;
+	padding:100px 0 0 0;
+	width:20%;
+	height:100%;
+	color:#fff;
+}
+.main{
+	width:80%;
+	height:100%;
+	padding:100px 50px 0 50px;
+}
+.fixed{
+	position:fixed;
+}
+.relative{
+	position:relative;
+	left:270px;
+}
+.h3{
+	font-size:25px;
+	padding:5px 16px 80px 16px;
+	font-weight:bold;
+}
+.a-style{
+	font-size:20px;
+	padding:8px 16px;
+	margin:10px 5px;
+	font-weight:bold;
+	text-decoration:none;
+	color:#fff;
+	display:block;
+}
+a:hover{
+	color:#000;
+	background-color: #fff;
+}
+.image-size{
+	width:460px;
+	height:350px;
+	margin:10px;
+	opacity:0.8;
+}
+.image-size:hover{
+	cursor:pointer;
+	opacity:1;
+}
+.float-left{
+	float:left;
+}
+.h1{
+	font-size:70px;
+	font-weight:bold;
+}
+.h2{
+	font-size:48px;
+	margin:35px 0;
+	color:#f44336;
+	font-weight:bold;
+}
+.team-foto{
+	width:300px;
+	height:200px;
+	opacity:0.8;
+}
+.clear-both{
+	clear:both;
+}
+.style-team{
+	width:300px;
+	height:400px;
+	background-color:#e2e0e0;
+	margin:10px;
+}
+.style-team-name{
+	font-size:24px;
+	padding:10px;
+}
+.style-team-job{
+	font-size:16px;
+	padding:10px;
+	color:grey;
+}
+.style-team-text{
+	padding:10px;
+}
+.table-style{
+	padding:0 8px;
+	width:50%;
+}
+.table-heading-style1{
+	background-color:#616161;
+	padding:32px 16px;
+	font-size:24px;
+	color:white;
+}
+.table-heading-style2{
+	background-color:#f44336;
+	padding:32px 16px;
+	font-size:24px;
+	color:white;
+}
+li{
+	background-color:#f1f1f1;
+	border: 1px solid #ddd;
+	text-align:center;
+	padding:16px;
+}
+.footer{
+	background-color:#f1f1f1;
+	padding:32px 58px 32px 16px;
+	text-align:right;
+}
+hr{
+	width:50px;
+	border: 5px solid red;
+	border-radius:4px;
+	margin:20px 0;
+}
+.text-width{
+	width:100%;
+	padding:5px;
+}
+.button-basic1{
+	background-color:white;
+	color:black;
+	border:none;
+	cursor:pointer;
+	padding:15px;
+}
+.button-basic2{
+	background-color:#f44336;
+	color:white;
+	border:none;
+	cursor:pointer;
+	padding:15px;
+}
+.button-basic1:hover{
+	background-color:black;
+	color:white;
+	cursor:pointer;
+}
+.button-basic2:hover{
+	background-color:black;
+	cursor:pointer;
+}
+.sendmessage-button{
+	color:white;
+	background-color:#f44336;
+	cursor:pointer;
+	padding:12px 24px;
+	border:none;
+	margin:15px 0;
+	width:100%;
+}
+.sendmessage-button:hover{
+	color:black;
+	background-color:#afadad;
+	cursor:pointer;
+	padding:12px 24px;
+	border:none;
+	margin:15px 0;
+	width:100%;
+}
+.bold{
+	font-weight:bold;
+}
+.input-style{
+	width:980px;
+	height:50px;
+	margin:5px 0;
+}
